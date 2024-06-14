@@ -19,17 +19,20 @@ Welcome to the 'ThumbFrame' GitHub Repository. This Streamlit-based web applicat
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/nishantjoshi-007/ThumbFrame.git
+   ```
+2. **Move in the qrcodecreator Folder**
+   ```bash
    cd ThumbFrame
    ```
-
-2. **Install Dependencies**
+   
+3. **Install Dependencies**
    - Ensure you have Python 3.11 or newer.
    - Install the required Python packages using pip:
      ```bash
      pip install -r requirements.txt
      ```
 
-3. **Run the Application**
+4. **Run the Application**
    ```bash
    streamlit run app.py
    ```
