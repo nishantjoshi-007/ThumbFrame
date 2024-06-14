@@ -1,6 +1,6 @@
 # :star2: Thumb Frame
 <div align='center'>
-Welcome to the 'Video Thumbnail Adder' GitHub Repository. This Streamlit-based web application allows users to add customizable thumbnails to their video files. It's designed to be user-friendly and functional, ideal for content creators, marketers, and personal use to enhance their video presentations. Dive into the repository to see the code and try out the app.
+Welcome to the 'ThumbFrame' GitHub Repository. This Streamlit-based web application allows users to add customizable thumbnails to their video files. It's designed to be user-friendly and functional, ideal for content creators, marketers, and personal use to enhance their video presentations. Dive into the repository to see the code and try out the app.
 <h4> <a href="https://thumbframe.streamlit.app/">Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/ThumbFrame/issues">Report Bug</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/ThumbFrame/issues">Request Feature</a> </h4>
 </div>
 
