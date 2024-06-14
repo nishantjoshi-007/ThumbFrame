@@ -20,7 +20,7 @@ Welcome to the 'ThumbFrame' GitHub Repository. This Streamlit-based web applicat
    ```bash
    git clone https://github.com/nishantjoshi-007/ThumbFrame.git
    ```
-2. **Move in the qrcodecreator Folder**
+2. **Move in the ThumbFrame Folder**
    ```bash
    cd ThumbFrame
    ```
