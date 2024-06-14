@@ -44,7 +44,7 @@ Welcome to the 'ThumbFrame' GitHub Repository. This Streamlit-based web applicat
 - **User-Friendly Interface**: With Streamlit, the application offers a clean and interactive interface that is easy to navigate.
 
 ## :wave: Contributing
-<img src="https://contrib.rocks/image?repo=nishantjoshi-007/videothumbnailadder" /> Contributions to the Video Thumbnail Adder are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
+<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the ThumbFrame are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
 ## :warning: License
 Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/ThumbFrame/blob/main/LICENSE">LICENSE</a> for more information.
