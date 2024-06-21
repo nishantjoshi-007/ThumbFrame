@@ -27,9 +27,13 @@ Welcome to the 'ThumbFrame' GitHub Repository. This Streamlit-based web applicat
    
 3. **Install Dependencies**
    - Ensure you have Python 3.11 or newer.
-   - Install the required Python packages using pip:
+   - Install the Python package for virtual environment using pip:
      ```bash
-     pip install -r requirements.txt
+     pip install pipenv
+     ```
+   - Install the required Python packages using pipenv:
+     ```bash
+     pipenv install
      ```
 
 4. **Run the Application**
