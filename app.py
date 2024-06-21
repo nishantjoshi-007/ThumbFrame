@@ -4,6 +4,8 @@ from mutagen.mp4 import MP4, MP4Cover
 import tempfile
 import os
 
+st.set_page_config("ThumbFrame", "🎦")
+
 # Inject custom CSS
 st.markdown("""
 <style>
